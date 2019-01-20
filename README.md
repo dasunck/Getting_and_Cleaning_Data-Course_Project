@@ -1,6 +1,6 @@
-# Getting_and_Cleaning_Data-Course_Project
+Getting and Cleaning Data - Course Project
 
-This repository contains set of submissions for Coursera - Getting and Cleaning Data - Course Project.
+This repository contains set of submissions for Getting and Cleaning Data - Course Project.
 
 #########################################################################
 Raw Dataset :
