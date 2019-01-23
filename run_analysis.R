@@ -70,7 +70,7 @@ names(tidy_data)<-gsub("angle", "Angle", names(tidy_data))
 names(tidy_data)<-gsub("gravity", "Gravity", names(tidy_data))
 names(tidy_data)<-gsub("BodyBody", "Body", names(tidy_data))
 
-write.table(tidy_data, "Tidy_Data.txt", row.name=FALSE)
+#write.table(tidy_data, "Tidy_Data.txt", row.name=FALSE)
 
 #From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
