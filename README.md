@@ -27,7 +27,6 @@ Contains R source code which downloads the raw data and load data to R data-fram
     4) Appropriately labels the data set with descriptive variable names.
 	5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Tidy_Data.txt file is generated after performing first four steps of transformations.
 Grouped_Tidy_Data.txt is generated after performing all five steps of transformations. 
 
 #########################################################################
